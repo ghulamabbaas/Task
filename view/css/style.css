@@ -230,7 +230,7 @@ svg {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-image: url(/assets/images/image-full.png);
+    background-image: url(../../assets/images/image-full.png);
     color: white;
     text-align: center;
     position: relative;
@@ -431,7 +431,7 @@ ul li::before {
     }
 
     .nav-head {
-        padding: 28px;
+        padding: 34px;
     }
 
     .main h1 {
